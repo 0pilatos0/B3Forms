@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(68, 66, 66);
+    margin: 0px;
+    overflow: hidden;
+}
+.klik{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+}
+
+.header {
+    background-color: rgb(212, 62, 62);
+    margin: 0px;
+    width: 840px;
+    padding: 20px;
+    font-size: 30px;
+    margin: 0 auto;
+    
+}
+#form {
+    background-color: white;
+    margin: 0px;
+    width: 840px;
+    margin: 0 auto;
+    height: 525px;
+    text-align: right;
+}
+#form2 {
+    background-color: white;
+    margin: 0px;
+    width: 880px;
+    margin: 0 auto;
+    height: 525px;
+    text-align: left;
+}
+.titel{
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 840px;
+    font-size: 70px;
+    color: white;
+    font-family: 'Lakki Reddy', cursive;
+
+}
+.footer{
+    text-align: center;
+    background-color: gray;
+    font-size: 15px;
+    margin: 0px;
+    width: 840px;
+    padding: 20px;
+    margin: 0 auto;
+}
+#name{
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 25px;
+}
+.formpje{
+    padding: 20px;
+}
+.button{
+    margin-top: 4px;
+    margin-right: 40px;
+}
+.error {color: #FF0000;
+    margin-right: 40px;}
